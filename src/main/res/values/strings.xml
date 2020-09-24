@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guias</string>
+    <string name="bienvenida">Bienvenido a Android UCB</string>
+    <string name="coloresCambio">cambio de colores </string>
+    <string name="btonRojo">ROJO </string>
+    <string name="btonBlanco">BLANCO </string>
+    <string name="Guia5">GUIA 5 y 6 </string>
+</resources>
